@@ -1,0 +1,10 @@
+html, body { color: #000; font: normal 90% Arial,Helvetica,sans-serif;
+  height: 100%; margin: 10; padding: 0;
+}
+.mainHeading {
+	font-size: 150%;
+	color: #0033FF;
+}
+.href {
+	color: #0033FF;
+}
